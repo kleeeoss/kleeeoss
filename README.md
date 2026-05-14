@@ -43,22 +43,22 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <a href="https://github.com/thatguygarv">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thatguygarv&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="thatguygarv's GitHub Stats" />
+  <a href="https://github.com/kleeeoss">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kleeeoss&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="kleeeoss's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=thatguygarv&theme=synthwave&hide_border=true&cache_seconds=86400" alt="thatguygarv's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=kleeeoss&theme=synthwave&hide_border=true&cache_seconds=86400" alt="kleeeoss's GitHub Streak" width="49%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=thatguygarv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&cache_seconds=86400" alt="Garv Vaidya's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=kleeeoss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&cache_seconds=86400" alt="Garv Vaidya's GitHub Trophies" />
 </p>
 
 <br>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=thatguygarv&theme=synthwave&radius=10" alt="thatguygarv's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kleeeoss&theme=synthwave&radius=10" alt="kleeeoss's Activity Graph" />
 </p>
 
 
